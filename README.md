@@ -1,8 +1,8 @@
 # Energy Security Multivariate Analysis
 ## Using R and Excel
-### How European Union countries cope with the energy crisis
+### How European Union countries cope with the energy crisis?
 
-[Click here to check the report](#https://github.com/kacperkerszen/energy_security/blob/main/ENERGY_SECURITY.pdf)
+[Click here to check the report](https://github.com/kacperkerszen/energy_security/blob/main/ENERGY_SECURITY.pdf)
 
 This project focuses on analyzing the energy security in European Union (EU) countries. Using various analytical methods including:
 - linear ordering,
